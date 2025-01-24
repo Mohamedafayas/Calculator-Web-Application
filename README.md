@@ -15,15 +15,15 @@ CSS3 for styling
 JavaScript (ES6) for interactivity
 
 📚 **How to Use**
-**Clone the repository**:
+1. **Clone the repository**:
     ```bash
     git clone
 https://github.com/your-username/calculator.git
     ```
-**Navigate to the project directory**:
+2. **Navigate to the project directory**:
     ```bash
   cd calculator
-  ```
+    ```
 
 Open index.html in your browser.
 
