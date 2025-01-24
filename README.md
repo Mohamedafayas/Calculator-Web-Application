@@ -16,9 +16,15 @@ JavaScript (ES6) for interactivity
 
 📚 **How to Use**
 **Clone the repository**:
-git clone https://github.com/your-username/calculator.git
+    ```bash
+    git clone
+https://github.com/your-username/calculator.git
+    ```
 **Navigate to the project directory**:
-cd calculator
+    ```bash
+  cd calculator
+  ```
+
 Open index.html in your browser.
 
 💡 **Future Enhancements**
