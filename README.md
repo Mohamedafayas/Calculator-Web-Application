@@ -4,18 +4,19 @@ A responsive and user-friendly Calculator built using HTML, CSS, and JavaScript.
 
 🖥️ **Features**
 
-**Simple and Intuitive Design**: A clean, minimalistic interface that ensures ease of use.
+**Simple and Intuitive Design :** A clean, minimalistic interface that ensures ease of use.
 
-**Basic Arithmetic Operations**: Add, subtract, multiply, and divide with accuracy.
+**Basic Arithmetic Operations :** Add, subtract, multiply, and divide with accuracy.
 
-**Responsive Design**: Fully functional on desktops, tablets, and mobile devices.
+**Responsive Design :** Fully functional on desktops, tablets, and mobile devices.
 
-**Real-Time Updates**: Immediate calculations as you input values.
+**Real-Time Updates :** Immediate calculations as you input values.
 
-**Keyboard Support**: Use your keyboard for faster inputs.
+**Keyboard Support :** Use your keyboard for faster inputs.
 
 
-⚙️ **Technologies Used**
+
+⚙️ **Technologies Used :**
 
 HTML5 for structure
     
@@ -23,7 +24,8 @@ CSS3 for styling
     
 JavaScript (ES6) for interactivity
 
-📚 **How to Use**
+
+📚 **How to Use :**
 
 1. **Clone the repository**:
     ```bash
@@ -36,7 +38,7 @@ JavaScript (ES6) for interactivity
 
 3. Open index.html in your browser.
 
-💡 **Future Enhancements**
+💡 **Future Enhancements :**
 
 Add scientific calculator functions (e.g., trigonometric, logarithmic).
     
@@ -44,17 +46,17 @@ Improve accessibility with ARIA attributes.
     
 Include themes for a personalized user experience.
 
-🤝 **Contributing**
+🤝 **Contributing :**
 
 Contributions are always welcome!
 
-🙌 **Acknowledgments**
+🙌 **Acknowledgments :**
 
 Inspired by various online calculator designs.
     
 Special thanks to tutorials and resources on modern web development.
 
-📧 **Contact**
+📧 **Contact :**
 
 For any inquiries or suggestions, feel free to reach out:
     
