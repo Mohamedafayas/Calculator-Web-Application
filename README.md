@@ -44,4 +44,5 @@ For any inquiries or suggestions, feel free to reach out:
 Mohamed Fayas
 
 -[GitHub] (https://github.com/Mohamedafayas)
+
 -[LinkedIn] (https://www.linkedin.com/in/mohamed-fayas-m-6993a0274/)
