@@ -54,7 +54,7 @@ A responsive and user-friendly **Calculator** built using **HTML**, **CSS**, and
 ## 👤 Author
 
 **Mohammad Fayas**  
-- GitHub: [MohamedFayasM](https://github.com/Mohamedafayas)  
-- LinkedIn: [MOHAMED FAYAS M](https://www.linkedin.com/in/mohamed-fayas-m-6993a0274/)  
+- [Github](https://github.com/Mohamedafayas)  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-fayas-m-6993a0274/)  
 
 ---
