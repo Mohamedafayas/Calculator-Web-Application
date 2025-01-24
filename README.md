@@ -1,67 +1,60 @@
-**Calculator Web Application**
+# Calculator Web Application
 
-A responsive and user-friendly Calculator built using HTML, CSS, and JavaScript. This project demonstrates the fundamental concepts of web development and provides a sleek interface for performing basic arithmetic operations.
+A responsive and user-friendly **Calculator** built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates the fundamental concepts of web development and provides a sleek interface for performing basic arithmetic operations.
 
-🖥️ **Features**
+---
 
-**Simple and Intuitive Design :** A clean, minimalistic interface that ensures ease of use.
+## 🖥️ Features
 
-**Basic Arithmetic Operations :** Add, subtract, multiply, and divide with accuracy.
+- **Simple and Intuitive Design**: A clean, minimalistic interface that ensures ease of use.  
+- **Basic Arithmetic Operations**: Add, subtract, multiply, and divide with accuracy.  
+- **Responsive Design**: Fully functional on desktops, tablets, and mobile devices.  
+- **Real-Time Updates**: Immediate calculations as you input values.  
+- **Keyboard Support**: Use your keyboard for faster inputs.  
 
-**Responsive Design :** Fully functional on desktops, tablets, and mobile devices.
+---
 
-**Real-Time Updates :** Immediate calculations as you input values.
+## ⚙️ Technologies Used
 
-**Keyboard Support :** Use your keyboard for faster inputs.
+- **HTML5** for structure  
+- **CSS3** for styling  
+- **JavaScript (ES6)** for interactivity  
 
+---
 
+## 📚 How to Use
 
-⚙️ **Technologies Used :**
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/calculator.git
+   ```  
+2. Navigate to the project directory:  
+   ```bash
+   cd calculator
+   ```  
+3. Open `index.html` in your browser.  
 
-HTML5 for structure
-    
-CSS3 for styling
-    
-JavaScript (ES6) for interactivity
+---
 
+## 💡 Future Enhancements
 
-📚 **How to Use :**
+- Add scientific calculator functions (e.g., trigonometric, logarithmic).  
+- Improve accessibility with ARIA attributes.  
+- Include themes for a personalized user experience.    
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/calculator.git
-    ```
-2. **Navigate to the project directory**:
-    ```bash
-    cd calculator
-    ```
+---
 
-3. Open index.html in your browser.
+## 🙌 Acknowledgments
 
-💡 **Future Enhancements :**
+- Inspired by various online calculator designs.  
+- Special thanks to tutorials and resources on modern web development.  
 
-Add scientific calculator functions (e.g., trigonometric, logarithmic).
-    
-Improve accessibility with ARIA attributes.
-    
-Include themes for a personalized user experience.
+---
 
-🤝 **Contributing :**
+## 👤 Author
 
-Contributions are always welcome!
+**Mohammad Fayas**  
+- GitHub: [MohamedFayasM](https://github.com/Mohamedafayas)  
+- LinkedIn: [MOHAMED FAYAS M](https://www.linkedin.com/in/mohamed-fayas-m-6993a0274/)  
 
-🙌 **Acknowledgments :**
-
-Inspired by various online calculator designs.
-    
-Special thanks to tutorials and resources on modern web development.
-
-📧 **Contact :**
-
-For any inquiries or suggestions, feel free to reach out:
-    
-Mohamed Fayas
-
--[GitHub] (https://github.com/Mohamedafayas)
-    
--[LinkedIn] (https://www.linkedin.com/in/mohamed-fayas-m-6993a0274/)
+---
