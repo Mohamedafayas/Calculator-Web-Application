@@ -24,11 +24,11 @@ A responsive and user-friendly **Calculator** built using **HTML**, **CSS**, and
 
 ## 📚 How to Use
 
-1. Clone the repository:  
+1. **Clone the repository**:  
    ```bash
    git clone https://github.com/your-username/calculator.git
    ```  
-2. Navigate to the project directory:  
+2. **Navigate to the project directory**:  
    ```bash
    cd calculator
    ```  
